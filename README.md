@@ -1,7 +1,7 @@
 <h1 align="center">GitHub Advanced Security Bootcamp</h1>
 <p align="center">
   <a href="#mega-prerequisites">Prerequisites</a> •  
-  <a href="#books-resources">Resources</a>
+  <a href="#books-resources">Resources</a> 123
 </p>
 
 > This bootcamp is designed to get you familiar with GitHub Advanced Security (GHAS) so that you can better understand how to use it in your own repositories.
